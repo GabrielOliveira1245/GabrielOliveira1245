@@ -2,9 +2,15 @@
 
 ## Olá, eu sou Gabriel Oliveira 👋
 Estudante de Análise e Desenvolvimento de Sistemas | Em transição de carreira para a área de tecnologia
+
 Atualmente cursando o segundo semestre de Análise e Desenvolvimento de Sistemas, estou em busca da minha primeira oportunidade na área de tecnologia. Com mais de 6 anos de experiência no comércio, desenvolvi habilidades como comunicação, resolução de problemas e trabalho em equipe, que pretendo levar para minha futura atuação no setor de tecnologia.
 
 Sou apaixonado por aprender e me desenvolver em um ambiente dinâmico e desafiador. Estou focado em adquirir conhecimento técnico e contribuir com minha dedicação e comprometimento. Busco oportunidades para aplicar o que estou aprendendo e construir uma carreira sólida no mundo da tecnologia.
+
+## 📫 Como me encontrar:
+- LinkedIn: https://www.linkedin.com/in/gabriel-de-oliveira-silva
+- E-mail: gabriel_oliveira1245@hotmail.com
+  
 
 
 <!--
